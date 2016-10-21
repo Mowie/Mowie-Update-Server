@@ -1,3 +1,0 @@
-#Changelog
-
-* Awesome Changes
